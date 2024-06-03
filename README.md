@@ -25,7 +25,7 @@ The project structure is organized as follows:
 
 ## Screenshots
 
-![Rocket List Screen](screenshots/rocket_list_screen.png)
+![Rocket List Screen](WhatsApp Image 2024-06-03 at 13.22.51.jpeg)
 
 ## Getting Started
 
