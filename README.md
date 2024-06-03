@@ -24,8 +24,7 @@ The project structure is organized as follows:
   - `main.dart`: Entry point of the app.
 
 ## Screenshots
-
-![Rocket List Screen](https://github.com/Shubham02003/SpaceX_Rockets/blob/main/WhatsApp%20Image%202024-06-03%20at%2013.22.51.jpeg,height:100)
+<img src="WhatsApp%20Image%202024-06-03%20at%2013.22.51.jpeg" alt="Rocket List Screen" height="400">
 
 ## Getting Started
 
