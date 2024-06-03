@@ -25,7 +25,7 @@ The project structure is organized as follows:
 
 ## Screenshots
 
-![Rocket List Screen](https://github.com/Shubham02003/SpaceX_Rockets/blob/main/WhatsApp%20Image%202024-06-03%20at%2013.22.51.jpeg)
+![Rocket List Screen](https://github.com/Shubham02003/SpaceX_Rockets/blob/main/WhatsApp%20Image%202024-06-03%20at%2013.22.51.jpeg,height:100)
 
 ## Getting Started
 
