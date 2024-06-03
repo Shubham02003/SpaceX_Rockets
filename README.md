@@ -16,9 +16,8 @@ The project structure is organized as follows:
 - `lib/`: Contains all the Dart code for the app.
   - `providers/`: Contains classes for state management using the Provider package.
     - `rocket_provider.dart`: Manages the state for fetching and storing rocket data.
-    - `connection_provider.dart`: Manages the state for tracking network connection status.
   - `screens/`: Contains screen widgets for the app.
-    - `rocket_list_screen.dart`: Displays the list of rockets.
+    - `home_screen.dart`: Displays the list of rockets.
   - `models/`: Contains model classes for representing rocket data.
   - `widgets/`: Contains reusable UI components.
   - `main.dart`: Entry point of the app.
